@@ -13,7 +13,7 @@ using VVVV.Core.Logging;
 namespace VVVV.Nodes
 {
     #region PluginInfo
-    [PluginInfo(Name = "Template",
+    [PluginInfo(Name = "TemplateTemplate",
                 Category = "Value",
                 Help = "Basic template with one value in/out",
                 Tags = "")]
